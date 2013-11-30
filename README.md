@@ -20,6 +20,11 @@ For example, if you set `ng-intro-method="CallMe"`, then you can later call `ng-
 
 There are also directives that link to the intro.js callbacks, namely `ng-intro-oncomplete`, `ng-intro-onexit`, `ng-intro-onchange` and `ng-intro-onbeforechange`.
 
+## Install
+
+You can download [the minified file](https://github.com/mendhak/angular-intro.js/tree/master/build).
+
+You can also `bower install angular-intro.js`.
 
 ## License
 
